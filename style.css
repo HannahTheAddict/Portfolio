@@ -1,35 +1,52 @@
-
 header{
     background: #007bff;
-  text-align: center;
-  padding: 30px;
-}
-.pro{
     text-align: center;
-    font-weight: bold;
-}
-h2{
-    font-weight: bold;
+    padding: 20px;
 }
 
-.t{
-    display: flex;
-    justify-content: space-evenly;
-    
+header img{
+    clip-path: circle();
 }
-section{
-    padding: 30px;
-}
-.d{
-justify-content: center;
-text-align: center;
-}
-footer {
+
+.About 
+{
     text-align: center;
-    padding: 3px;
-    background-color: #007bff;
+    padding: 40PX;
+}
+
+.Skills
+{
+    text-align: center;
+}
+.Skills button
+{
+    text-align: center;
+    width: 110px;
+    height: 40px;
+    background-color:#007bff;
+    border-radius: 20px;
     color: white;
-  }
+    font-weight: 200;
+    font-size: 15px;
+    border: 0;
+    margin: 20px;
+
+}
+
+.Skills button:hover
+{
+    background-color:#007bff;
+    color: white;   
+    border: 0;
+}
 
 
+.Project
+{
+    text-align: center;
+}
 
+a{
+    text-decoration: none;
+    color: white;
+}
