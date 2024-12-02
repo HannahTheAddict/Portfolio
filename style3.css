@@ -1,6 +1,6 @@
 
 header{
-    background: #007bff;
+    background: DarkSalmon;
   text-align: center;
   padding: 30px;
 }
@@ -8,6 +8,7 @@ header{
     text-align: center;
     font-weight: bold;
 }
+
 h2{
     font-weight: bold;
 }
@@ -27,7 +28,7 @@ text-align: center;
 footer {
     text-align: center;
     padding: 3px;
-    background-color: #007bff;
+    background-color: DarkSalmon;
     color: white;
   }
 

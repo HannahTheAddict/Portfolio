@@ -1,6 +1,6 @@
 
 header{
-    background: #007bff;
+    background: DarkSalmon;
   text-align: center;
   padding: 30px;
 }
@@ -10,7 +10,7 @@ header{
 }
 h2{
     font-weight: bold;
-}
+}a
 
 .t{
     display: flex;
@@ -27,7 +27,7 @@ text-align: center;
 footer {
     text-align: center;
     padding: 3px;
-    background-color: #007bff;
+    background-color: DarkSalmon;
     color: white;
   }
 
