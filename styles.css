@@ -51,3 +51,9 @@ a{
     color: white;
 }
 
+.Contact{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
